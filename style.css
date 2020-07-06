@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+#hexCode{
+    font-weight: 600;
+    text-align: center;
+    color: #ff0000
+}
+
+#first, #second {
+    height: 200px;
+    width: 200px;
+    border: thin black solid;
+    margin: 10px;
+    margin-left: 45rem;
+    padding-left: 15rem;
+}
